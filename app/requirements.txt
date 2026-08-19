@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlmodel
+stripe
+pytest
+requests

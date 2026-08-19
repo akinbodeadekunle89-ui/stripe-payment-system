@@ -1,0 +1,9 @@
+venv/
+.env
+alembic/.env
+database.db
+*.sqlite3
+app.log
+__pycache__/
+*.py[cod]
+.vscode/
